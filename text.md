@@ -15,3 +15,6 @@
 >**git log** - get information about commits
 
 >**git checkout 1234** - transition between commits
+
+>**git diff** - show differences in our file
+
