@@ -12,3 +12,6 @@
 > - -m (message)
 > - -a (let us avoid repeating command *add*)
 
+>**git log** - get information about commits
+
+>**git checkout 1234** - transition between commits
