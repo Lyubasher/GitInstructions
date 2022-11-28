@@ -9,3 +9,6 @@
 >**git add file_name** - track file
 
 >**git commit -m "commit message"** - fix changes with files
+> - -m (message)
+> - -a (let us avoid repeating command *add*)
+
