@@ -26,7 +26,7 @@
 
 >**git merge name** - combine two branches
 
->**git checkout -b name** - creating and transition to new branch
+>Example text
 
 # Instructions for Markdown
 
