@@ -18,6 +18,12 @@
 
 >**git diff** - show differences in our file
 
+## Instructions for commands with branches
+
+>**git branch** - display out branches
+
+>**git branch name** - create new branch
+
 
 # Instructions for Markdown
 
