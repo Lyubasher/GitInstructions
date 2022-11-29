@@ -26,8 +26,6 @@
 
 >**git merge name** - combine two branches
 
->Example text
-
 # Instructions for Markdown
 
 * **_Quotes_**
