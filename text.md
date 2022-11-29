@@ -18,3 +18,37 @@
 
 >**git diff** - show differences in our file
 
+
+# Instructions for Markdown
+
+* **_Quotes_**
+
+To add quotes use sign >.
+
+> Per aspera ad astra.
+
+* **_Links_**
+
+To add link use code - [link text](link address)
+
+Please visit [GitHub](https://desktop.github.com/)
+
+* **_Images_**
+
+To add image use code - ![text for image](way to file)
+
+![GitHub logo](github-logo.png) 
+
+* **_Footnotes_**
+
+To add footnote use code - [^x]
+
+Dream[^1]
+
+[^1] : [cats](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%BA%D0%B0)
+
+
+
+
+
+
