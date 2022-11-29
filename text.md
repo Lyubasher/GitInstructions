@@ -24,6 +24,7 @@
 
 >**git branch name** - create new branch
 
+>**git merge name** - combine two branches
 
 # Instructions for Markdown
 
