@@ -28,6 +28,12 @@
 
 >Example text
 
+fox
+
+box
+
+merge
+
 # Instructions for Markdown
 
 * **_Quotes_**
