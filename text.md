@@ -34,6 +34,12 @@
 
 * **_Text highlighting_**
 
+To highlight the text in intalics, you need to frame it with * or underscores (*fox* or _fox_)
+
+To make the text bold, you need to frame it with ** or double underscores (**fox** or __fox__)
+
+Alternative ways of text highlighting are needed in order to combine both methods. For example, _the text can be in intalics and **bold**_.
+
 * **_Quotes_**
 
 To add quotes use sign >.
