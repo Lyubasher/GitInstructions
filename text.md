@@ -80,9 +80,9 @@ For example:
 2. Second
 3. Third
 
+* **_Conclusion_**
 
-
-
+Congratulate, you have finished studying the Markdown instruction!
 
 
 
