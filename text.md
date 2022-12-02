@@ -80,6 +80,11 @@ For example:
 2. Second
 3. Third
 
+* **_Conclusion_**
+
+That's all! For more details, please follow 
+[Microsoft's Markdown Reference](https://learn.microsoft.com/ru-ru/contribute/markdown-reference).
+
 
 
 
