@@ -30,6 +30,8 @@
 
 # Instructions for Markdown
 
+* **_Text highlighting_**
+
 * **_Quotes_**
 
 To add quotes use sign >.
@@ -55,6 +57,9 @@ To add footnote use code - [^x]
 Dream[^1]
 
 [^1] : [cats](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%BA%D0%B0)
+
+* **_Lists_**
+
 
 
 
