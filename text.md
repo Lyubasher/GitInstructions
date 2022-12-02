@@ -68,6 +68,18 @@ Dream[^1]
 
 * **_Lists_**
 
+To add unnumbered lists, you need to highlight the items with *.
+For example:
+* first
+* second
+* third 
+
+To add numbered lists, you just need to number the items.
+For example:
+1. First
+2. Second
+3. Third
+
 
 
 
