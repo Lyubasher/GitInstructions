@@ -26,6 +26,8 @@
 
 >**git merge name** - combine two branches
 
+>**git reset --merge ORIG_HEAD** - cancellation of mergering branches (including after conflict)
+
 >**git checkout -b name** - creating and transition to new branch
 
 # Instructions for Markdown
