@@ -1,4 +1,4 @@
-# Instructions for GitHub
+# Instructions for Git
 
 >**git config user.name** - initialize username
 
@@ -29,6 +29,23 @@
 >**git reset --merge ORIG_HEAD** - cancellation of mergering branches (including after conflict)
 
 >**git checkout -b name** - creating and transition to new branch
+
+## Instructions for working with Remote Repositories
+
+>**git clone _URL_** - clone remote repository 
+
+GitHub will give you the repository **_URL_** to copy in order to clone a repository.
+
+>**git remote add _name_ _URL_** - create a remote server (GitHub) for a repository you have on your local machine
+
+**_name_** - name reference for the server, which is typically “origin”
+
+**_URL_** - GitHub page of the empty repository
+
+>**git push** - move local commits to the remote repository
+
+>**git pull** - move changes from the remote repository to the local repository
+
 
 # Instructions for Markdown
 
