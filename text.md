@@ -46,6 +46,14 @@ GitHub will give you the repository **_URL_** to copy in order to clone a reposi
 
 >**git pull** - move changes from the remote repository to the local repository
 
+>**_forking in GitHub_** (not a command) :
+
+**_Fork_** is a copy of a complete repository to the user's GitHub Account from another account.It allows to freely experiment with changes without affecting the original project.
+
+**_Pull request_** - send the changes to the owner of the repository as a request
+
+![Forking Process](fork-pullrequest.png)
+
 
 # Instructions for Markdown
 
